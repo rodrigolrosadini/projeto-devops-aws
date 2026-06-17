@@ -1,0 +1,20 @@
+# Terraform
+**/.terraform/
+
+# Terraform State
+*.tfstate
+*.tfstate.*
+
+# Variables
+*.tfvars
+*.tfvars.json
+
+# Plans
+*.tfplan
+
+# Keys
+*.pem
+*.key
+
+# VSCode
+.vscode/
